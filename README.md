@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Érika Martinez
+# ✦ Érika Martinez ✦
 
 ### `Full Stack Developer in progress`
 
