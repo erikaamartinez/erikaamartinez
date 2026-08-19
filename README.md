@@ -9,7 +9,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A9rika-martinez-328399249/)
 
 </div>
 
@@ -92,34 +92,3 @@ Small applications and experiments created while learning HTML, CSS, JavaScript,
 
 ---
 
-## `// learning path`
-
-```text
-HTML
-  ↓
-CSS
-  ↓
-JavaScript
-  ↓
-React
-  ↓
-Node.js
-  ↓
-Databases
-  ↓
-Full Stack
-```
-
----
-
-<div align="center">
-
-### ✦ Keep learning. Keep building. ✦
-
-`console.log("one commit at a time.");`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=8B5CF6" />
-
-</div>
